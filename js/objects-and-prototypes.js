@@ -106,4 +106,4 @@ console.log(cake.describe());
 // firstly make protptype which is the char.
 // the parameters = name, health, atk force.
 
-// text based gamein console.
+// text based gamein console.klkj

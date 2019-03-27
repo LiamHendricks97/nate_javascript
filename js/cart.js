@@ -28,7 +28,7 @@ if (cart.length != 0) {
     // search an item in an array
     let check = false;
     for (let cartItem in cart) {
-        if (cart[cartItem].name ===item.name) {
+        if (cart[cartItem].name === item.name) {
             check = true;
         }
     }
